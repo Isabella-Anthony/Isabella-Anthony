@@ -1,6 +1,6 @@
 ## Welcome, my name is Isabella Anthony
 
-I'm currently a Junior majoring in Computer Science at Florida International University. I have a strong interest in exploring the latest developments in technology. Therefore, I have been expanding my skills with topics such as data exploration, classification models, Machine learning, and full-stack development. Moreover, I enjoy contributing to FIU's tech community by being part of INIT FIU as the Director of Engagement.
+I'm currently majoring in Computer Science at Florida International University. I have a strong interest in exploring the latest developments in technology. Therefore, I have been expanding my skills with topics such as data exploration, classification models, Machine learning, and full-stack development. Moreover, I enjoy contributing to FIU's tech community by being part of INIT FIU as the Director of Engagement.
 
 - 🌱  I’m currently expanding my knowledge with convolutional neural networks.
 -  :comet: I'm exploring and learning more about PyTorch.
