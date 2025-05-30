@@ -24,7 +24,7 @@ I'm currently majoring in Computer Science at Florida International University. 
 - Lender Classification  -> Implemented Decision Trees and Random Forest from Scikit-learn to classify and predict the likelihood of
 lenders fully repaying their loans.
 
-
+## Research
   
 
 
