@@ -3,7 +3,7 @@
 I'm currently majoring in Computer Science at Florida International University. I have a strong interest in exploring the latest developments in technology. Therefore, I have been expanding my skills with topics such as cloud computing, distributed systems, Machine learning, and full-stack development. Moreover, I enjoy contributing to FIU's tech community by being part of INIT FIU as the Director of Industry relations.
 
 - 🌱  I’m currently expanding my knowledge with distributed systems and cloud computing.
--  :comet: I'm exploring and learning more about RAG.
+-  :comet: I'm exploring and learning more about RAG(Retrieval-Augmented Generation).
 - :ringed_planet:	I'm actively learning Go.
 
 
