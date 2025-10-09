@@ -7,17 +7,6 @@ I'm currently majoring in Computer Science at Florida International University. 
 - :ringed_planet:	I'm actively learning Go.
 
 
-## Experience
-
-- Student Teaching Assistant (Aug 2024 - present)
-  - Graded and providing feedback to **50+ students** on their coding assignments and all other relevant coursework.
-  - Helped students with basic programming environment setup, algorithm design and implementation. The course utilized Alice, an object-based educational programming language with an IDE.
-
-- Director of Engagement at INIT FIU (Jan 2024 - Dec 2024)
-  - Worked with a team of **30 students** to assist FIU students in further developing their technical skills.
-  - Organized various weekly social events with **200 attendees** to foster community engagement.
-  - Helped organized ShellHacks, Florida’s largest student-led hackathon, with **1,400+ participants** in attendance.
-
 ## Projects 
 - Inventaris -> Developed an inventory management web application that keeps track and manages inventory.
 - SkinScan -> Developed a skin lesion classification model and utilized Streamlit to deploy the interactive web app.
