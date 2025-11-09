@@ -4,10 +4,7 @@ I'm currently majoring in Computer Science at Florida International University. 
 
 - 🌱  I’m currently expanding my knowledge with distributed systems and cloud computing.
 -  :comet: I'm exploring and learning more about RAG(Retrieval-Augmented Generation).
-- :ringed_planet:	I'm actively learning Go.
-
-
-
+- :ringed_planet:	I'm actively learning GO.
 
 
 <!--
