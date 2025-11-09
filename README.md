@@ -7,15 +7,6 @@ I'm currently majoring in Computer Science at Florida International University. 
 - :ringed_planet:	I'm actively learning Go.
 
 
-## Projects 
-- Inventaris -> Developed an inventory management web application that keeps track and manages inventory.
-- SkinScan -> Developed a skin lesion classification model and utilized Streamlit to deploy the interactive web app.
-- Lender Classification  -> Implemented Decision Trees and Random Forest from Scikit-learn to classify and predict the likelihood of
-lenders fully repaying their loans.
-
-## Research
-
-  
 
 
 
