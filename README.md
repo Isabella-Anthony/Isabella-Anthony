@@ -14,12 +14,16 @@ I'm currently majoring in Computer Science at Florida International University. 
 ---
 
 
-currently working on Capstone
+🖥️ Currently working on Capstone
 
 
 ---
 
-currently learning
+📘 currently learning
+
+Currently learning the fundamentals of operating systems, including:
+- Processes & threads, Scheduling and synchronization, Deadlocks, Virtual memory, OS-level security and protection.
+ 
 
 ---
 
