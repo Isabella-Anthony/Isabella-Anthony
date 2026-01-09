@@ -11,7 +11,7 @@ I'm currently majoring in Computer Science at Florida International University. 
 
 
 ## 👩🏻‍💻 Currently working on 
-- capstone project that focuses on building a unified orchestration layer for hybrid systems that combine CPUs, GPUs, and QPUs.
+- capstone project 
 - 
 
 
