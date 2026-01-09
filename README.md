@@ -10,8 +10,9 @@ I'm currently majoring in Computer Science at Florida International University. 
 - Reliability trade-offs in emerging compute stacks
 
 
-## 👩🏻‍💻 Currently working on Capstone Project
-My capstone project focuses on building a unified orchestration layer for hybrid systems that combine CPUs, GPUs, and Quantum Processing Units (QPUs). The idea is to treat the QPU like a specialized accelerator inside a heterogeneous cluster, making it easier to move from experimental quantum scripts to production-ready distributed workflows. The goal is to make hybrid quantum-classical workloads more reliable, scalable and practical.
+## 👩🏻‍💻 Currently working on 
+- capstone project that focuses on building a unified orchestration layer for hybrid systems that combine CPUs, GPUs, and QPUs.
+- 
 
 
 
