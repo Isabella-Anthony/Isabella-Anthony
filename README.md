@@ -4,18 +4,18 @@ I'm currently majoring in Computer Science at Florida International University. 
 
 
 
-## 🧠 What I’m Interested In
+## 🧠 What I’m interested In
 - System-level evaluation of RAG pipelines
 - Async architectures for latency bound workloads
 - Reliability trade-offs in emerging compute stacks
 
 
-## 👩🏻‍💻 Currently working on Capstone
+## 👩🏻‍💻 Currently working on Capstone Projects
 My capstone project focuses on building a unified orchestration layer for hybrid systems that combine CPUs, GPUs, and Quantum Processing Units (QPUs). The idea is to treat the QPU like a specialized accelerator inside a heterogeneous cluster, making it easier to move from experimental quantum scripts to production-ready distributed workflows.
 
 
 
-## 📘 currently learning
+## 📘 Currently Learning
 
 Currently learning the fundamentals of operating systems, including:
 - Processes & threads, Scheduling and synchronization, Deadlocks, Virtual memory, OS-level security and protection.
