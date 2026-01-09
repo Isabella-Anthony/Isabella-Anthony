@@ -9,12 +9,12 @@ I'm currently majoring in Computer Science at Florida International University. 
 
 ---
 
-🔍 What I’m Interested In
+## 🔍 What I’m Interested In
 
 ---
 
 
-🖥️ Currently working on Capstone
+## 🖥️ Currently working on Capstone
 
 
 ---
