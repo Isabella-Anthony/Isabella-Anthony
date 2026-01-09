@@ -7,17 +7,14 @@ I'm currently majoring in Computer Science at Florida International University. 
 - :ringed_planet:	I'm actively learning GO.
 
 
----
 
 ## 🔍 What I’m Interested In
 
----
 
 
 ## 🖥️ Currently working on Capstone
 
 
----
 
 ## 📘 currently learning
 
@@ -27,9 +24,9 @@ Currently learning the fundamentals of operating systems, including:
 Currently studying database management systems, including:
 - Relational and ER modeling, Schema design and normalization, SQL and relational algebra, database organization and system architecture
 
----
 
-Research 
+
+## Research 
 
 
 
