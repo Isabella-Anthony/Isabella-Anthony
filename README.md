@@ -24,6 +24,8 @@ I'm currently majoring in Computer Science at Florida International University. 
 Currently learning the fundamentals of operating systems, including:
 - Processes & threads, Scheduling and synchronization, Deadlocks, Virtual memory, OS-level security and protection.
  
+Currently studying database management systems, including:
+- Relational and ER modeling, Schema design and normalization, SQL and relational algebra, Physical database organization and system architecture
 
 ---
 
