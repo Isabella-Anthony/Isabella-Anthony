@@ -1,4 +1,4 @@
-## Welcome, my name is Isabella Anthony 💫
+## Welcome, my name is Isabella Anthony 
 
 I'm currently majoring in Computer Science at Florida International University. I have a strong interest in exploring the latest developments in technology. Therefore, I have been expanding my skills with topics such as cloud computing, distributed systems, Machine learning, and full-stack development.
 
