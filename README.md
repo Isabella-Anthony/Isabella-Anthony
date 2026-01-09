@@ -1,15 +1,13 @@
-## Welcome, my name is Isabella Anthony
+## Welcome, my name is Isabella Anthony 💫
 
 I'm currently majoring in Computer Science at Florida International University. I have a strong interest in exploring the latest developments in technology. Therefore, I have been expanding my skills with topics such as cloud computing, distributed systems, Machine learning, and full-stack development.
 
-- 🌱  I’m currently expanding my knowledge with distributed systems and cloud computing.
--  :comet: I'm exploring and learning more about RAG(Retrieval-Augmented Generation).
-- :ringed_planet:	I'm actively learning GO.
 
 
-
-## 🔍 What I’m Interested In
-
+## 🧠 What I’m Interested In
+- System-level evaluation of RAG pipelines
+- Async architectures for latency bound workloads
+- Reliability trade-offs in emerging compute stacks
 
 
 ## 🖥️ Currently working on Capstone
