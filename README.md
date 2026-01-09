@@ -11,7 +11,7 @@ I'm currently majoring in Computer Science at Florida International University. 
 
 
 ## 👩🏻‍💻 Currently working on Capstone Project
-My capstone project focuses on building a unified orchestration layer for hybrid systems that combine CPUs, GPUs, and Quantum Processing Units (QPUs). The idea is to treat the QPU like a specialized accelerator inside a heterogeneous cluster, making it easier to move from experimental quantum scripts to production-ready distributed workflows.
+My capstone project focuses on building a unified orchestration layer for hybrid systems that combine CPUs, GPUs, and Quantum Processing Units (QPUs). The idea is to treat the QPU like a specialized accelerator inside a heterogeneous cluster, making it easier to move from experimental quantum scripts to production-ready distributed workflows. The goal is to make hybrid quantum-classical workloads more reliable, scalable and practical.
 
 
 
@@ -23,9 +23,6 @@ Currently learning the fundamentals of operating systems, including:
 Currently studying database management systems, including:
 - Relational and ER modeling, Schema design and normalization, SQL and relational algebra, database organization and system architecture
 
-
-
-## 🎯 Research 
 
 
 
