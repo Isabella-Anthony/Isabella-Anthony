@@ -7,6 +7,27 @@ I'm currently majoring in Computer Science at Florida International University. 
 - :ringed_planet:	I'm actively learning GO.
 
 
+---
+
+🔍 What I’m Interested In
+
+---
+
+
+currently working on Capstone
+
+
+---
+
+currently learning
+
+---
+
+Research 
+
+
+
+
 <!--
 **Isabella-Anthony/Isabella-Anthony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
