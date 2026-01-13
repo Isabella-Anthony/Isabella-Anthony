@@ -7,7 +7,7 @@ I'm currently majoring in Computer Science at Florida International University. 
 ## 🧠 I’m interested in
 - System-level evaluation of RAG pipelines
 - Async architectures for latency bound workloads
-- Reliability trade-offs in emerging compute stacks
+- Reliability trade-offs in compute stacks
 
 
 ## 👩🏻‍💻 Currently working on 
