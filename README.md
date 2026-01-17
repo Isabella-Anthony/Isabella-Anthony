@@ -23,7 +23,7 @@ Deepening knowledge in database management systems, including:
 - Relational and ER modeling, Schema design and normalization, SQL and relational algebra, database organization and system architecture
 
 The field of Quantum computing , including:
-- Training Quantum neural networks, general applications and checkpointing.
+- Training Quantum Neural Networks(QNNs), general applications and checkpointing.
 
 
 
