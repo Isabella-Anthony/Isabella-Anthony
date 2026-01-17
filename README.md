@@ -12,8 +12,6 @@ I'm currently majoring in Computer Science at Florida International University. 
 
 ## 👩🏻‍💻 Currently working on 
 - capstone project 
-- 
-
 
 
 ## 📘 Currently Learning
@@ -24,6 +22,8 @@ The fundamentals of operating systems, including:
 Deepening knowledge in database management systems, including:
 - Relational and ER modeling, Schema design and normalization, SQL and relational algebra, database organization and system architecture
 
+The field of Quantum computing , including:
+- Training Quantum neural networks, general applications and checkpointing.
 
 
 
