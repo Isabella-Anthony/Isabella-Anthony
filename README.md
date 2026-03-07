@@ -11,7 +11,7 @@ I'm currently majoring in Computer Science at Florida International University. 
 
 
 ## 👩🏻‍💻 Currently working on 
-- capstone project 
+- capstone project: Quantum Natural Gradients
 
 
 ## 📘 Currently Learning
