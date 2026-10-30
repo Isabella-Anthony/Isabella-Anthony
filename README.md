@@ -1,7 +1,7 @@
 ## Welcome, my name is Isabella Anthony 
 
 
-I am currently pursuing a Master's degree in Computer Science.
+I am currently pursuing a Master's degree in Computer Science. 😄
 
 <!--
 **Isabella-Anthony/Isabella-Anthony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
