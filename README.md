@@ -1,7 +1,7 @@
 ## Welcome, my name is Isabella Anthony 
 
 
-
+I am currently pursuing my masters in Computer Science!
 
 
 <!--
